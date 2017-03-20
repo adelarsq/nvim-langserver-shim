@@ -7,7 +7,7 @@ Shim for the language server protocol developed by Microsoft. The protocol can b
 First you need to install a language server. An example of installing one might be:
 
 ```shell
-$ go get github.com/sourcegraph/go-langserver/langserver/cmd/langserver-go
+$ go get github.com/sourcegraph/go-langserver
 ```
 
 A more complete set of language servers can be found here: https://github.com/Microsoft/language-server-protocol/wiki/Protocol-Implementations
